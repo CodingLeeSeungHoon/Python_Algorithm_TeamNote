@@ -12,6 +12,7 @@ end = max(trees)
 
 while start <= end:
     mid = (start + end) // 2
+    # list comprehension으로 풀지 않으면 시간 오류
     cnt = sum(t - mid if t > mid else 0 for t in trees)
 
     if cnt >= m:
