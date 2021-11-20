@@ -25,4 +25,3 @@ for _ in range(testcase):
         else:
             priority.append(priority.popleft( ))
             queue.append(queue.popleft( ))
-​
