@@ -25,4 +25,3 @@ for loops in range(1, natural_number + 1):
         break
 
 print(result)
-​
