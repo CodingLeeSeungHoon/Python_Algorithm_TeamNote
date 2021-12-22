@@ -1,34 +1,37 @@
-# Python_Algorithm_TeamNote
-🌟 Python algorithm team note for programming competition or coding test     
-🌟 프로그래밍 대회 혹은 기업 코딩테스트를 위한 Python Team Note 정리입니다.     
+# 🌟 Python_Algorithm_TeamNote
+<i> Python algorithm team note for programming competition or coding test</i>     
+<i> 프로그래밍 대회 혹은 기업 코딩테스트를 위한 Python Team Note 정리입니다.</i>  <br></br>
+
+---
 
 
->### DP(Dynamic Programming)
+### DP(Dynamic Programming)
 동적 프로그래밍          
-
->### Data Structure
+<br></br>
+### Data Structure
 자료구조          
-       
->### Graph Theory
+<br></br>
+### Graph Theory
 그래프 이론 (그래프 + 트리)          
-        
->### Implement
+<br></br>        
+### Implement
 구현          
-       
->### Number Theory
+<br></br>       
+### Number Theory
 정수론          
-     
->### Others
+<br></br>     
+### Others
 기타 알고리즘 (투 포인터 등)          
-
->### Probability Theory
+<br></br>
+### Probability Theory
 확률(순열, 조합)          
-
->### Searching
+<br></br>
+### Searching
 탐색 알고리즘          
-
->### Sorting
+<br></br>
+### Sorting
 정렬 알고리즘          
-
->### String
+<br></br>
+### String
 문자열 알고리즘          
+<br></br>
