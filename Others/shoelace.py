@@ -16,8 +16,12 @@ for _ in range(N):
 result_a = 0
 result_b = 0
 
-for i in range(N-1):
-    result_a += X[i]*Y[i+1]
-    result_b += X[i+1]*Y[i]
+for i in range(N):
+    if i + 1 != N:
+        result_a += X[i]*Y[i+1]
+        result_b += X[i+1]*Y[i]
+    else:
+        result_a += X[i]*Y[0]
+        result_b += X[0]*Y[i]
 
 print("{}".format(abs(result_a - result_b) / 2))
