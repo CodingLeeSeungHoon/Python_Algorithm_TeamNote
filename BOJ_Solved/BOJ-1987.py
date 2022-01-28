@@ -1,5 +1,6 @@
 """
 백준 1987번 : 알파벳
+- bfs / dfs 인데, set을 이용해서 큐를 만들거나 방문 집합을 만들어줘야 하는 문제
 """
 import sys
 input = sys.stdin.readline
