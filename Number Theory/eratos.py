@@ -15,3 +15,5 @@ def eratos(n):
 
     # 소수 목록 산출
     return [i for i in range(2, n) if sieve[i] == True]
+
+print(eratos(100))
