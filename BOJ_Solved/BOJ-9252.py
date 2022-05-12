@@ -1,5 +1,6 @@
 """
 백준 9252번 : LCS 2
+2차원 DP, pypy 제출
 """
 import sys
 input = sys.stdin.readline
